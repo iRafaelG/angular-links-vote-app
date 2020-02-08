@@ -1,6 +1,10 @@
 # LinksVotesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. using TypeScript and BootStrap.
+
+It allows you to vote for links given by users through a form.
+
+![Links Vote App](LinksVotesApp.png)
 
 ## Development server
 
