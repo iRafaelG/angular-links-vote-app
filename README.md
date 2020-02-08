@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 It allows you to vote for links given by users through a form.
 
-![Links Vote App](LinksVotesApp.png)
+![Links Vote App](/src/LinksVotesApp.png)
 
 ## Development server
 
